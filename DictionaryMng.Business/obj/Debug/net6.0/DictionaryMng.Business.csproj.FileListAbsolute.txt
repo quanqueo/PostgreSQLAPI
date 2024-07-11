@@ -1,0 +1,15 @@
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\bin\Debug\net6.0\DictionaryMng.Business.deps.json
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\bin\Debug\net6.0\DictionaryMng.Business.dll
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\bin\Debug\net6.0\DictionaryMng.Business.pdb
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\bin\Debug\net6.0\DictionaryMng.Db.dll
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\bin\Debug\net6.0\DictionaryMng.Db.pdb
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\DictionaryMng.Business.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\DictionaryMng.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\DictionaryMng.Business.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\DictionaryMng.Business.AssemblyInfo.cs
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\DictionaryMng.Business.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\Dictiona.F517625F.Up2Date
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\DictionaryMng.Business.dll
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\refint\DictionaryMng.Business.dll
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\DictionaryMng.Business.pdb
+C:\Users\quant\source\repos\PostgreSQLAPI\DictionaryMng.Business\obj\Debug\net6.0\ref\DictionaryMng.Business.dll

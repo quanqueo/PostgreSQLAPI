@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "Dictionary.Admin.Apis.Controllers.CityController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/cities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SERP.Framework.ApiUtils.Responses.ResponseObject\u00601[[PostgreSQL_API.DB.City, DictionaryMng.Db, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

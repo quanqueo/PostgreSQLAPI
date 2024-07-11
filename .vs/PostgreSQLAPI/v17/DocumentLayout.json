@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63050B1-D854-4850-943D-A9470805B1F6}|Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj|c:\\users\\quant\\source\\repos\\postgresqlapi\\dictionary.admin.apis\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A63050B1-D854-4850-943D-A9470805B1F6}|Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj|solutionrelative:dictionary.admin.apis\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63050B1-D854-4850-943D-A9470805B1F6}|Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj|c:\\users\\quant\\source\\repos\\postgresqlapi\\dictionary.admin.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63050B1-D854-4850-943D-A9470805B1F6}|Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj|solutionrelative:dictionary.admin.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63050B1-D854-4850-943D-A9470805B1F6}|Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj|c:\\users\\quant\\source\\repos\\postgresqlapi\\dictionary.admin.apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A63050B1-D854-4850-943D-A9470805B1F6}|Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj|solutionrelative:dictionary.admin.apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05B0D87-3193-4FA2-B5DE-6DB8670B0CCE}|DictionaryMng.Db\\DictionaryMng.Db.csproj|c:\\users\\quant\\source\\repos\\postgresqlapi\\dictionarymng.db\\dictionarymng.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C05B0D87-3193-4FA2-B5DE-6DB8670B0CCE}|DictionaryMng.Db\\DictionaryMng.Db.csproj|solutionrelative:dictionarymng.db\\dictionarymng.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63050B1-D854-4850-943D-A9470805B1F6}|Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj|c:\\users\\quant\\source\\repos\\postgresqlapi\\dictionary.admin.apis\\dictionary.admin.apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A63050B1-D854-4850-943D-A9470805B1F6}|Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj|solutionrelative:dictionary.admin.apis\\dictionary.admin.apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\Dictionary.Admin.Apis\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary.Admin.Apis\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\Dictionary.Admin.Apis\\Program.cs",
+              "RelativeToolTip": "Dictionary.Admin.Apis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:24:11.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\Dictionary.Admin.Apis\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Dictionary.Admin.Apis\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\Dictionary.Admin.Apis\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Dictionary.Admin.Apis\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T08:19:31.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DictionaryMng.Db",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\DictionaryMng.Db\\DictionaryMng.Db.csproj",
+              "RelativeDocumentMoniker": "DictionaryMng.Db\\DictionaryMng.Db.csproj",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\DictionaryMng.Db\\DictionaryMng.Db.csproj",
+              "RelativeToolTip": "DictionaryMng.Db\\DictionaryMng.Db.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T07:51:54.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dictionary.Admin.Apis",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj",
+              "RelativeDocumentMoniker": "Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj",
+              "RelativeToolTip": "Dictionary.Admin.Apis\\Dictionary.Admin.Apis.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T07:50:25.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\Dictionary.Admin.Apis\\Dockerfile",
+              "RelativeDocumentMoniker": "Dictionary.Admin.Apis\\Dockerfile",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\PostgreSQLAPI\\Dictionary.Admin.Apis\\Dockerfile",
+              "RelativeToolTip": "Dictionary.Admin.Apis\\Dockerfile",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-11T07:49:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAMwAEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-11T07:43:32.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
